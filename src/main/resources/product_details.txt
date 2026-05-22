@@ -1,0 +1,441 @@
+```txt
+Title: Wireless Bluetooth Headphones
+Description: Premium wireless headphones with deep bass and active noise cancellation.
+Price: 2499
+Category: Electronics
+Features:
+- Bluetooth 5.3
+- Noise Cancellation
+- 30 Hours Battery
+- Fast Charging
+- Built-in Mic
+
+Title: Gaming Mechanical Keyboard
+Description: RGB mechanical keyboard designed for gaming and coding.
+Price: 3999
+Category: Electronics
+Features:
+- RGB Lighting
+- Blue Switches
+- Anti-Ghosting
+- USB-C Support
+- Durable Build
+
+Title: Smart Fitness Watch
+Description: Smartwatch with heart-rate tracking and GPS support.
+Price: 5499
+Category: Wearables
+Features:
+- GPS
+- Sleep Tracking
+- Waterproof
+- Heart Rate Monitor
+- Sports Modes
+
+Title: Cotton Casual T-Shirt
+Description: Soft and comfortable cotton t-shirt for everyday use.
+Price: 699
+Category: Fashion
+Features:
+- 100% Cotton
+- Regular Fit
+- Breathable Fabric
+- Lightweight
+- Machine Washable
+
+Title: Running Shoes
+Description: Lightweight running shoes with superior comfort.
+Price: 2999
+Category: Footwear
+Features:
+- Breathable Mesh
+- Cushioned Sole
+- Anti-Slip Grip
+- Shock Absorption
+- Lightweight
+
+Title: Laptop Backpack
+Description: Stylish backpack with laptop compartment and USB port.
+Price: 1499
+Category: Accessories
+Features:
+- Water Resistant
+- USB Charging Port
+- Multiple Compartments
+- Laptop Sleeve
+- Padded Straps
+
+Title: Stainless Steel Water Bottle
+Description: Insulated bottle keeping drinks cold for 24 hours.
+Price: 499
+Category: Home & Kitchen
+Features:
+- Leak Proof
+- Stainless Steel
+- Eco Friendly
+- BPA Free
+- Vacuum Insulated
+
+Title: Office Ergonomic Chair
+Description: Comfortable office chair with lumbar support.
+Price: 8999
+Category: Furniture
+Features:
+- Adjustable Height
+- Lumbar Support
+- Mesh Back
+- Soft Cushion
+- Rotatable Base
+
+Title: Wireless Mouse
+Description: Compact wireless mouse with silent clicking buttons.
+Price: 799
+Category: Electronics
+Features:
+- Silent Clicks
+- Adjustable DPI
+- Wireless
+- Ergonomic Design
+- Long Battery Life
+
+Title: Android Smartphone
+Description: 5G smartphone with AMOLED display and fast processor.
+Price: 18999
+Category: Mobiles
+Features:
+- 5G Support
+- AMOLED Display
+- Fast Charging
+- 128GB Storage
+- Dual Camera
+
+Title: Smart LED TV
+Description: 43-inch Full HD smart TV with streaming apps support.
+Price: 24999
+Category: Electronics
+Features:
+- Android TV
+- Full HD Display
+- Dolby Audio
+- Voice Control
+- WiFi Enabled
+
+Title: Air Fryer
+Description: Healthy cooking air fryer with digital controls.
+Price: 5999
+Category: Home Appliances
+Features:
+- Oil-Free Cooking
+- Digital Timer
+- Non-Stick Basket
+- Auto Shutoff
+- Large Capacity
+
+Title: DSLR Camera
+Description: Professional DSLR camera for photography enthusiasts.
+Price: 45999
+Category: Electronics
+Features:
+- 24MP Sensor
+- 4K Recording
+- WiFi Connectivity
+- Interchangeable Lens
+- Image Stabilization
+
+Title: Electric Toothbrush
+Description: Rechargeable electric toothbrush with soft bristles.
+Price: 1999
+Category: Personal Care
+Features:
+- Rechargeable
+- Soft Bristles
+- Waterproof
+- Multiple Modes
+- Travel Case
+
+Title: Yoga Mat
+Description: Non-slip yoga mat ideal for exercise and meditation.
+Price: 999
+Category: Fitness
+Features:
+- Non-Slip Surface
+- Lightweight
+- Easy to Clean
+- Eco Friendly
+- Thick Cushioning
+
+Title: Portable Bluetooth Speaker
+Description: Compact speaker with powerful sound and bass.
+Price: 1799
+Category: Electronics
+Features:
+- Waterproof
+- Bluetooth 5.0
+- Deep Bass
+- Portable Design
+- 12 Hours Playback
+
+Title: Refrigerator
+Description: Double-door refrigerator with inverter technology.
+Price: 32999
+Category: Home Appliances
+Features:
+- Frost Free
+- Energy Efficient
+- Inverter Compressor
+- Large Storage
+- Fast Cooling
+
+Title: Microwave Oven
+Description: Convection microwave oven for baking and grilling.
+Price: 11499
+Category: Home Appliances
+Features:
+- Auto Cook Menu
+- Child Lock
+- Grill Function
+- Convection Mode
+- Touch Panel
+
+Title: Men's Denim Jeans
+Description: Slim-fit stretchable denim jeans for casual wear.
+Price: 1599
+Category: Fashion
+Features:
+- Slim Fit
+- Stretchable Fabric
+- Fade Resistant
+- Comfortable Wear
+- Durable Stitching
+
+Title: Women's Handbag
+Description: Stylish handbag with spacious compartments.
+Price: 2199
+Category: Fashion
+Features:
+- Premium Leather
+- Adjustable Strap
+- Zipper Closure
+- Spacious Storage
+- Lightweight
+
+Title: Protein Powder
+Description: Whey protein supplement for muscle recovery and growth.
+Price: 3499
+Category: Fitness
+Features:
+- High Protein
+- Fast Absorption
+- Chocolate Flavor
+- Muscle Recovery
+- Low Sugar
+
+Title: Electric Kettle
+Description: Fast boiling electric kettle with auto shutoff.
+Price: 1299
+Category: Kitchen Appliances
+Features:
+- Auto Shutoff
+- Stainless Steel
+- Fast Heating
+- Cool Touch Handle
+- 1.5L Capacity
+
+Title: Tablet Device
+Description: Android tablet suitable for entertainment and study.
+Price: 14999
+Category: Electronics
+Features:
+- 10-inch Display
+- Dual Speakers
+- Long Battery
+- Expandable Storage
+- Lightweight
+
+Title: Noise Cancelling Earbuds
+Description: True wireless earbuds with crystal clear sound.
+Price: 3499
+Category: Electronics
+Features:
+- ANC Support
+- Touch Controls
+- Fast Pairing
+- Compact Charging Case
+- Sweat Resistant
+
+Title: Smart Ceiling Fan
+Description: Energy-saving smart ceiling fan with remote control.
+Price: 4299
+Category: Home Appliances
+Features:
+- Remote Control
+- BLDC Motor
+- Silent Operation
+- Energy Efficient
+- Speed Modes
+
+Title: Gaming Chair
+Description: Comfortable gaming chair with adjustable armrests.
+Price: 10999
+Category: Furniture
+Features:
+- Reclining Back
+- Neck Support
+- Adjustable Height
+- Soft Cushion
+- Metal Frame
+
+Title: Beard Trimmer
+Description: Precision beard trimmer with multiple length settings.
+Price: 1599
+Category: Personal Care
+Features:
+- Rechargeable
+- Stainless Blades
+- Adjustable Length
+- Fast Charging
+- Washable Head
+
+Title: Digital Alarm Clock
+Description: LED alarm clock with temperature display.
+Price: 899
+Category: Home Decor
+Features:
+- LED Display
+- Alarm Function
+- USB Powered
+- Compact Design
+- Temperature Sensor
+
+Title: Coffee Maker
+Description: Automatic coffee maker for quick brewing.
+Price: 4999
+Category: Kitchen Appliances
+Features:
+- Auto Brew
+- Reusable Filter
+- Compact Design
+- Easy Cleaning
+- Large Capacity
+
+Title: Study Table
+Description: Wooden study table with storage shelves.
+Price: 6499
+Category: Furniture
+Features:
+- Storage Shelves
+- Durable Wood
+- Modern Design
+- Spacious Surface
+- Easy Assembly
+
+Title: Power Bank
+Description: High-capacity power bank with fast charging support.
+Price: 1799
+Category: Electronics
+Features:
+- 20000mAh
+- Fast Charging
+- Dual USB Output
+- LED Indicator
+- Compact Design
+
+Title: Smart Door Lock
+Description: Digital smart lock with fingerprint access.
+Price: 8999
+Category: Security
+Features:
+- Fingerprint Unlock
+- PIN Access
+- Mobile App Control
+- Auto Lock
+- Low Battery Alert
+
+Title: Electric Iron
+Description: Steam iron with ceramic-coated soleplate.
+Price: 1399
+Category: Home Appliances
+Features:
+- Steam Function
+- Non-Stick Soleplate
+- Temperature Control
+- Lightweight
+- Fast Heating
+
+Title: Bicycle Helmet
+Description: Safety helmet designed for cycling protection.
+Price: 1299
+Category: Sports
+Features:
+- Adjustable Strap
+- Lightweight
+- Shock Resistant
+- Ventilation Holes
+- Comfortable Padding
+
+Title: External Hard Drive
+Description: Portable external storage device for backups.
+Price: 4999
+Category: Electronics
+Features:
+- 1TB Storage
+- USB 3.0
+- Portable Design
+- Fast Transfer
+- Durable Body
+
+Title: Face Wash
+Description: Gentle face wash suitable for all skin types.
+Price: 299
+Category: Personal Care
+Features:
+- Deep Cleansing
+- Oil Control
+- Refreshing Formula
+- Paraben Free
+- Daily Use
+
+Title: Electric Scooter
+Description: Smart electric scooter with long battery range.
+Price: 84999
+Category: Vehicles
+Features:
+- Fast Charging
+- LED Display
+- Long Range
+- Disc Brakes
+- Smart Connectivity
+
+Title: Bluetooth Car Adapter
+Description: Wireless Bluetooth adapter for car audio systems.
+Price: 999
+Category: Automotive
+Features:
+- Bluetooth Connectivity
+- Noise Reduction
+- USB Charging
+- Compact Design
+- Easy Setup
+
+Title: Portable Tent
+Description: Waterproof camping tent for outdoor adventures.
+Price: 5999
+Category: Outdoor
+Features:
+- Waterproof
+- Easy Setup
+- Lightweight
+- Wind Resistant
+- Spacious Interior
+
+Title: Mini Projector
+Description: Portable projector for movies and presentations.
+Price: 7999
+Category: Electronics
+Features:
+- HD Projection
+- HDMI Support
+- Compact Design
+- Built-in Speaker
+- Wireless Connectivity
+```
